@@ -1,2 +1,2 @@
-print('hello' )
-print(223+910)
+print('world' )
+print(223)
