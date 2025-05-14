@@ -1,5 +1,5 @@
 def x():
-    print(123)
+    print("string")
 x()
 
 
