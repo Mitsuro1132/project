@@ -1,5 +1,3 @@
-def x():
-    print("string")
-x()
+name = 'roma'
 
 
